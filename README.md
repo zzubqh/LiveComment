@@ -1,1 +1,4 @@
 # LiveComment
+添加一个新mp4视频文件重命名为bg.mp4，放在web目录下
+打开index.html进行编辑，修改server的IP地址为LiveCommentServer.exe运行时指定的IP，保存后退出
+在浏览器内打开index.html
